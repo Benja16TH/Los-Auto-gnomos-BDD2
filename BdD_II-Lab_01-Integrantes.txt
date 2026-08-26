@@ -1,0 +1,11 @@
+Nombre del Equipo: Autógnomos
+
+Integrantes/Roles:
+-Vianca Alejandra Viveros Huenuñir (Scrum Master/Developer)
+-Benjamin Osvaldo Juanillo Contreras (QA/Developer)
+-Gabriel Alejandro Requena Torres (Developer)
+-Benjamin Alejandro del Valle Pinto (Git/Developer)
+
+Sección (NRC): 
+-Cátedra 12298
+-Laboratorio 12299
