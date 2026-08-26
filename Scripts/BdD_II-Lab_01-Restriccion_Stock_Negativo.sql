@@ -1,0 +1,1 @@
+ALTER TABLE Inventario ADD CONSTRAINT chk_stock_positivo CHECK (cantidad_disponible >= 0);
