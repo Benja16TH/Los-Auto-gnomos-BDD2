@@ -5,4 +5,5 @@ Instrucciones para los scripts:
 2. Carga de datos: Ejecutar "BdD_II-Lab_01-Poblacion_Tablas.sql", mediante el cual se insertan los 50 registros por tabla solicitados.
 3. Operaciones DLL: Ejecutar "BdD_II-Lab_01-Operaciones_DDL.sql", que contiene las operaciones DDL requeridas.
 4. Operaciones DML: Ejecutar "BdD_II-Lab_01-Operaciones_DML.sql", que contiene las operaciones DML.
-5. Consultas:
+5. Consultas: Ejecutar "BdD_II-Lab_01-Consultas.sql"
+6.Aplicar Restriccion de Stock Negativo: Ejecutar "BdD_II-Lab_01-Restriccion_Stock_Negativo.sql"
