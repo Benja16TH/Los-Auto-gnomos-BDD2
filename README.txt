@@ -1,4 +1,4 @@
-Nombre de la base de datos:
+Nombre de la base de datos: "bdd2_final"
 Versión del motor: PostgreSQL 15.5
 Instrucciones para los scripts:
 1. Creación de la base de datos: Ejecutar el script "BdD_II-Lab_01-Creacion_BdD_&_Tablas.sql", encargado de crear las tablas necesarias.
